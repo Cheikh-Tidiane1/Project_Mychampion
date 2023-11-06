@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="@dimen/all"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:textStyle="bold"
+        android:textSize="@dimen/title"
+        android:gravity="center"
+        android:text="@string/Connection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:layout_marginTop="@dimen/top"
+        android:src="@drawable/efs"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"/>
+    <EditText
+        android:id="@+id/txtLogin"
+        android:layout_marginTop="@dimen/top"
+        android:hint="@string/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:inputType="textPassword"
+        android:id="@+id/txtPassword"
+        android:layout_marginTop="@dimen/top"
+        android:hint="@string/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btnConnect"
+        android:layout_marginRight="@dimen/right"
+        android:layout_marginLeft="@dimen/left"
+        android:backgroundTint="@color/holo_blue_light"
+        android:text="@string/Connect"
+        android:layout_marginTop="@dimen/top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="tab_teams">
+    <item>CNEPS Excellence</item>
+    <item>Douanes</item>
+    <item>Casa Sport</item>
+    <item>Teungueth</item>
+    <item>Pikine</item>
+</string-array>
+    <string-array name="team_details">
+        <item>La CNEPS Excellence est un club sénégalais évoluant dans l\’élite du football sénégalais. Il est la propriété de la Compagnie Nationale des Experts en Piscines et Spas. Présidé par Papa Sidy Lo, ce club basé à Thiès au Sénégal se propose dans la formation de joueurs depuis quelques années au Sénégal. Bien que ne disposant pas d\’un palmarès en championnat, le club a le mérite d\’avoir assuré la formation de l\’international sénégalais Ousseynou Ba actuellement du côté de l\’Olympiacos en Grèce.</item>
+        <item>Article 1 : Il est créé à Dakar, conformément aux dispositions statutaires du décret n° 76-040 du 16 Janvier 1976, une association sportive dénommée ASSOCIATION SPORTIVE DES DOUANES (AS DOUANES). Sa durée est illimitée ; son siége est installé à la Direction Générale des Douanes, 8-10 Allées Robert Delmas Dakar.
+
+Article 2 : Cette association a pour but :
+
+a) de promouvoir la pratique du Sport dans toutes les disciplines;
+b) d\’unir les agents des Douanes en activité et à la retraite animés d’un même idéal et de créer entre eux des liens d\’entente et de solidarité;
+c) de contribuer à l\’émancipation sociale et à la formation civique des populations.</item>
+        <item>Le Casa Sports est le club de football fanion de la capitale du sud du Sénégal, la ville de Ziguinchor. L\’équipe joue dans le Championnat du Sénégal de football de Première Division</item>
+        <item>Le Teungueth Football Club Rufisque, plus couramment abrégé en TFC Rufisque, est un club de football sénégalais fondé en 2010 et basé dans la ville de Rufisque</item>
+        <item>L\'AS Pikine accède à la Ligue 1 à l\'issue de la saison 2009, où le club est sacré champion de Ligue 2. Les débuts en première division sont mitigés mais la formation de Pikine parvient à se maintenir plusieurs saisons sans encombre. Il remporte son premier titre en Coupe grâce à un succès en Coupe de la ligue en 2011.</item>
+    </string-array>
+    <string-array name="tab_rencontre">
+        <item>Douanes VS CNEPS</item>
+        <item>Pikine VS Casa Sport</item>
+        <item>Teungueuth VS CNEPS</item>
+        <item>Douanes VS Casa Sport</item>
+        <item>Pikine VS Teungueth</item>
+    </string-array>
+    <string-array name="rencontre_details">
+        <item>Lieu de rencontre : Stade Abdoulaye Wade|
+            Heures : 20h|
+            Couts Tickets: 5000
+        </item>
+        <item>Lieu de rencontre : Stade Ngalandou Diouf|
+            Heures : 10h|
+            Couts Tickets: 1000</item>
+        <item>Lieu de rencontre : Stade Alassane Djigo|
+            Heures : 13h|
+            Couts Tickets: 1000</item>
+        <item>Lieu de rencontre : Stade Caroline Faye|
+            Heures : 10h|
+            Couts Tickets: 1000</item>
+        <item>Lieu de rencontre : Stade Abdoulaye Wade|
+            Heures : 20h|
+            Couts Tickets: 5000</item>
+    </string-array>
+    <string-array name="result">
+        <item>Douanes (4-4) CNEPS</item>
+        <item>Pikine (0-2) Casa Sport</item>
+        <item>Teungueuth (1-1) CNEPS</item>
+        <item>Douanes (3-2) Casa Sport</item>
+        <item>Pikone (0-0) Teungueth</item>
+    </string-array>
+    <string-array name="help">
+        <item> En cas d’urgence, veuillez contacter</item>
+        <item>Cheikh Ahmet Tidiade Ndiaye |775436982</item>
+        <item>Mouhadou Lamine Ndiaye |773450934</item>
+        <item>Aida Mbaye |703451234</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.mychampion.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_team"
+        android:name="com.example.mychampion.EquipesFragment"
+        android:label="@string/team"
+        tools:layout="@layout/fragment_equipes" />
+    <fragment
+        android:id="@+id/nav_rencontre"
+        android:name="com.example.mychampion.RencontresFragment"
+        android:label="@string/list_meeting"
+        tools:layout="@layout/fragment_rencontres" />
+    <fragment
+        android:id="@+id/nav_events"
+        android:name="com.example.mychampion.EventsFragment"
+        android:label="@string/events"
+        tools:layout="@layout/fragment_events" />
+    <fragment
+        android:id="@+id/nav_stades"
+        android:name="com.example.mychampion.StadeFragment"
+        android:label="@string/stade"
+        tools:layout="@layout/activity_stade_fragment" />
+    <fragment
+        android:id="@+id/nav_resultats"
+        android:name="com.example.mychampion.ResultatFragment"
+        android:label="@string/resultats"
+        tools:layout="@layout/fragment_resultat" />
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.example.mychampion.HelpFragment"
+        android:label="@string/help"
+        tools:layout="@layout/fragment_help" />
+
+
+</navigation>
